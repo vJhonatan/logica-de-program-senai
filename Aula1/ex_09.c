@@ -1,3 +1,11 @@
+// Desenvolva um programa em C que leia 10 valores numéricos inteiros e faça.
+// • A adição entre os valores digitados
+// • Subtração dos 5 últimos valores digitados
+// • Soma de todos os 9 primeiros valores e a divisão pelo último valor de
+// entrada.
+// • Soma de todos os 9 primeiros valores e a multiplicação pelo último valor
+// de entrada.
+
 #include <stdio.h>
 #include <stdlib.h>
 

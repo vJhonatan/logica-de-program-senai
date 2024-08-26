@@ -1,3 +1,6 @@
+// Desenvolva um programa em C que leia a base e a altura de um retângulo e
+// imprima o perímetro 2* (base + altura).
+
 #include <stdio.h>
 #include <stdio.h>
 
