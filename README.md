@@ -6,4 +6,6 @@ Registro de todos exercícios, projetos e avaliações realizados em meu curso t
  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
+
+
 <a href="https://github.com/vJhonatan/logica-de-program-senai/blob/main/CV-JhonatanPereira.pdf" class="nav-link">**Curriculo""</a>
