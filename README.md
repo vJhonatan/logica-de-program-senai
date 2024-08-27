@@ -2,6 +2,8 @@
 
 Registro de todos exercícios, projetos e avaliações realizados em meu curso técnico na matéria de lógica de programação, todos usando a IDE Codeblocks.
 
+<br>
+
 ![vJhonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=vJhonatan&theme=midnight-purple&show_icons=true)
 
 <div style ="display: inline_block"><br/>
