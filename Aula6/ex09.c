@@ -1,3 +1,6 @@
+// Desenvolva um programa que permita a entrada de 3 números distintos e exiba
+// em ordem crescente.
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,5 +1,8 @@
-#include <stdio.h>
-#include <stdlib.h>
+// Desenvolva um programa para uma papelaria com as seguintes informações.
+// Informar que até 100 folhas a cópia custa R$ 0,25 e acima de 100 folhas a cópia
+// custa R$ 0,20. Dado o total de cópias, informe o total a ser pago.
+// #include <stdio.h>
+// #include <stdlib.h>
 
 int main () {
 

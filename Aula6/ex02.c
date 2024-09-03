@@ -1,3 +1,10 @@
+// Desenvolva um programa que leia 3 notas de um determinado aluno e mostre na
+// tela o seguinte:
+// Se a média for menor que 4 (Aluno Reprovado)
+// Se a média for maior ou igual a 4 e menor que 7 (Aluno ficou em
+// Recuperação)
+// Se a média for maior ou igual a 7 (Aluno Aprovado)
+
 #include <stdio.h>
 #include <stdlib.h>
 

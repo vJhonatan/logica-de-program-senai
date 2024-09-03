@@ -1,3 +1,6 @@
+// Desenvolva um programa que receba um número, verifique se ele se encontra no
+// intervalo entre 100 e 200.
+
 #include <stdio.h>
 #include <stdlib.h>
 

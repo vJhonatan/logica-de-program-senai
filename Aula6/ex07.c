@@ -1,3 +1,8 @@
+// Desenvolva um programa para auxiliar na produção de uma fábrica, uma
+// máquina precisa de manutenção sempre o que o número de peças defeituosas
+// supera 10% da produção. Dados o total de peças produzidas e o total de peças
+// defeituosas, informe se a máquina precisa de manutenção.
+
 #include <stdio.h>
 #include <stdlib.h>
 

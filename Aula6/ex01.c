@@ -1,3 +1,7 @@
+// Desenvolva um programa que leia um número e imprima na a tela e informe se o
+// número é menor que 10, se o número é igual ao número 10 e se o número é
+// maior que 10.
+
 #include <stdio.h>
 #include <stdlib.h>
 

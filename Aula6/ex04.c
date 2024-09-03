@@ -1,3 +1,6 @@
+// Desenvolva um programa que receba um número e mostre uma mensagem caso
+// este número seja maior que 10.
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,6 @@
+// Desenvolver um programa que leia dois valores inteiros distintos e informe qual
+// é o maior.
+
 #include <stdio.h>
 #include <stdlib.h>
 
