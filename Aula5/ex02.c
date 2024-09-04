@@ -4,6 +4,7 @@
 // • Se é menor de idade
 // • Se é maior de 65 anos.
 
+
 #include <stdio.h>
 #include <stdlib.h>
 
