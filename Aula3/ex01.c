@@ -24,6 +24,7 @@ Valor Pago: 100.00
 Troco: 22.50
 Mensagem: Volte Sempre */
 
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -64,7 +65,6 @@ int main () {
     printf("\n  |------------------------| ");
     printf("\n  | VALOR TOTAL: R$ %.2f   | " , valorTotal);
     printf("\n  |________________________|\n");
-
 
     return 0;
 }
